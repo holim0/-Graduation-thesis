@@ -56,3 +56,11 @@
 
 [디지털경제뉴스(http://www.denews.co.kr)](https://www.denews.co.kr/news/articleView.html?idxno=11110)
 
+# [2020/09/29]
+
+
+
+- Payable - 이더를 받을 수 있는 특별한 함수 유형
+
+
+
