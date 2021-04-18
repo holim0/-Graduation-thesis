@@ -1,6 +1,6 @@
-안녕하세요. 스크립토 6기 이희제입니다.
 
-이번 시간에는 이더리움 기반으로 개발하기 위해서 필수적인 스마트 컨트랙트와 솔리디티에 대해서 알아보겠습니다.
+
+
 
 ![](https://images.velog.io/images/holim0/post/9d9d09eb-4c08-4cc8-b3d6-6192a7f7c479/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80.jpeg)
 
